@@ -1,0 +1,1081 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoppingCart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingCart.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\css\\animate.css",
+      "PackagePath": "staticwebassets\\adminStyles\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\adminStyles\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\adminStyles\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\css\\graph.css",
+      "PackagePath": "staticwebassets\\adminStyles\\css\\graph.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\css\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\adminStyles\\css\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\css\\style.css",
+      "PackagePath": "staticwebassets\\adminStyles\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\WeatherIcons-Regular.otf",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\WeatherIcons-Regular.otf"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\digital-7-webfont.eot",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\digital-7-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\digital-7-webfont.svg",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\digital-7-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\digital-7-webfont.ttf",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\digital-7-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\digital-7-webfont.woff",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\digital-7-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\digital-7_italic-webfont.eot",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\digital-7_italic-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\digital-7_italic-webfont.svg",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\digital-7_italic-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\digital-7_italic-webfont.ttf",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\digital-7_italic-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\digital-7_italic-webfont.woff",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\digital-7_italic-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\digital-7_mono-webfont.eot",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\digital-7_mono-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\digital-7_mono-webfont.svg",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\digital-7_mono-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\digital-7_mono-webfont.ttf",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\digital-7_mono-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\digital-7_mono-webfont.woff",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\digital-7_mono-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\adminStyles\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\1.png",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\2.png",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\3.png",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\4.png",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\5.png",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\6.png",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\7.png",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\lock.png",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\search.png",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\tick.png",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\images\\user.png",
+      "PackagePath": "staticwebassets\\adminStyles\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\js\\Chart.js",
+      "PackagePath": "staticwebassets\\adminStyles\\js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\adminStyles\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\js\\classie.js",
+      "PackagePath": "staticwebassets\\adminStyles\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\js\\jquery-1.10.2.min.js",
+      "PackagePath": "staticwebassets\\adminStyles\\js\\jquery-1.10.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\adminStyles\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\js\\jquery.flot.min.js",
+      "PackagePath": "staticwebassets\\adminStyles\\js\\jquery.flot.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\adminStyles\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\adminStyles\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\js\\skycons.js",
+      "PackagePath": "staticwebassets\\adminStyles\\js\\skycons.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\js\\uisearch.js",
+      "PackagePath": "staticwebassets\\adminStyles\\js\\uisearch.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\adminStyles\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\adminStyles\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\css\\swipebox.css",
+      "PackagePath": "staticwebassets\\css\\swipebox.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\ab.jpg",
+      "PackagePath": "staticwebassets\\images\\ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\cake1.jpg",
+      "PackagePath": "staticwebassets\\images\\cake1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\cake2.jpg",
+      "PackagePath": "staticwebassets\\images\\cake2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\cake3.jpg",
+      "PackagePath": "staticwebassets\\images\\cake3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\cake4.jpg",
+      "PackagePath": "staticwebassets\\images\\cake4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\cake5.jpg",
+      "PackagePath": "staticwebassets\\images\\cake5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\cake6.jpg",
+      "PackagePath": "staticwebassets\\images\\cake6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\cake7.jpg",
+      "PackagePath": "staticwebassets\\images\\cake7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\cake8.jpg",
+      "PackagePath": "staticwebassets\\images\\cake8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\cake9.jpg",
+      "PackagePath": "staticwebassets\\images\\cake9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\contact.jpg",
+      "PackagePath": "staticwebassets\\images\\contact.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\d1.jpg",
+      "PackagePath": "staticwebassets\\images\\d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\d10.jpg",
+      "PackagePath": "staticwebassets\\images\\d10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\d2.jpg",
+      "PackagePath": "staticwebassets\\images\\d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\d3.jpg",
+      "PackagePath": "staticwebassets\\images\\d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\d4.jpg",
+      "PackagePath": "staticwebassets\\images\\d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\d5.jpg",
+      "PackagePath": "staticwebassets\\images\\d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\d6.jpg",
+      "PackagePath": "staticwebassets\\images\\d6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\d7.jpg",
+      "PackagePath": "staticwebassets\\images\\d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\d8.jpg",
+      "PackagePath": "staticwebassets\\images\\d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\d9.jpg",
+      "PackagePath": "staticwebassets\\images\\d9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\f1.jpg",
+      "PackagePath": "staticwebassets\\images\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\f2.jpg",
+      "PackagePath": "staticwebassets\\images\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\f3.jpg",
+      "PackagePath": "staticwebassets\\images\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\flower1.jpg",
+      "PackagePath": "staticwebassets\\images\\flower1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\flower10.jpg",
+      "PackagePath": "staticwebassets\\images\\flower10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\flower2.jpg",
+      "PackagePath": "staticwebassets\\images\\flower2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\flower3.jpg",
+      "PackagePath": "staticwebassets\\images\\flower3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\flower4.jpg",
+      "PackagePath": "staticwebassets\\images\\flower4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\flower5.jpg",
+      "PackagePath": "staticwebassets\\images\\flower5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\flower6.jpg",
+      "PackagePath": "staticwebassets\\images\\flower6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\flower7.jpg",
+      "PackagePath": "staticwebassets\\images\\flower7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\flower8.jpg",
+      "PackagePath": "staticwebassets\\images\\flower8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\flower9.jpg",
+      "PackagePath": "staticwebassets\\images\\flower9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\images\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\images\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\g7.jpg",
+      "PackagePath": "staticwebassets\\images\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\g8.jpg",
+      "PackagePath": "staticwebassets\\images\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\g9.jpg",
+      "PackagePath": "staticwebassets\\images\\g9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\icons.svg",
+      "PackagePath": "staticwebassets\\images\\icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\sale.jpg",
+      "PackagePath": "staticwebassets\\images\\sale.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\images\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\images\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\images\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\images\\team4.jpg",
+      "PackagePath": "staticwebassets\\images\\team4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\js\\bootstrap-3.1.1.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-3.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\js\\jquery.swipebox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.swipebox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\js\\jquery.vide.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.vide.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\js\\minicart.min.js",
+      "PackagePath": "staticwebassets\\js\\minicart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery\\dist\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\05cfc395-f377-4221-a8b5-bdb631d3e09e_flower6.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\05cfc395-f377-4221-a8b5-bdb631d3e09e_flower6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\10384f69-523b-4a94-a794-cfbff73ee6f6_cake6.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\10384f69-523b-4a94-a794-cfbff73ee6f6_cake6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\350a7208-a723-4c3e-ab53-3703cebe8987_flower4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\350a7208-a723-4c3e-ab53-3703cebe8987_flower4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\41370010-3761-40d3-826a-22c13e13eee6_cake4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\41370010-3761-40d3-826a-22c13e13eee6_cake4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\4c30f956-2093-44fe-ac72-50f62efa07c9_flower9.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\4c30f956-2093-44fe-ac72-50f62efa07c9_flower9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\536d649f-1365-4437-bb16-2c1e8c818ad0_flower1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\536d649f-1365-4437-bb16-2c1e8c818ad0_flower1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\62ff15cd-dece-475e-b4b3-c4070457dad2_cake6.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\62ff15cd-dece-475e-b4b3-c4070457dad2_cake6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\63f4b278-3f5b-4d23-9a55-b9caeeb98f28_flower8.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\63f4b278-3f5b-4d23-9a55-b9caeeb98f28_flower8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\702ddcde-2fa4-4337-9cd5-d85a3aeeec4f_cake8.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\702ddcde-2fa4-4337-9cd5-d85a3aeeec4f_cake8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\7e96e367-c54e-4cc5-b135-0bdf4f26a91e_cake5.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\7e96e367-c54e-4cc5-b135-0bdf4f26a91e_cake5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\81676df2-0f0c-45b8-bca1-704fab83cf63_cake7.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\81676df2-0f0c-45b8-bca1-704fab83cf63_cake7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\8e40b3a0-8943-4c54-aef8-b4eee7c319fa_cake6.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\8e40b3a0-8943-4c54-aef8-b4eee7c319fa_cake6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\8f87d7c0-c3d9-4f2e-803f-0d21a01200ec_cake1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\8f87d7c0-c3d9-4f2e-803f-0d21a01200ec_cake1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\91a798c7-cdfe-4979-ae44-777af7d0715e_flower4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\91a798c7-cdfe-4979-ae44-777af7d0715e_flower4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\9246f738-2d9b-4d26-bc8c-9ea888ccdc3f_cake4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\9246f738-2d9b-4d26-bc8c-9ea888ccdc3f_cake4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\aaedb945-e639-4de6-a734-bf721b899055_flower9.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\aaedb945-e639-4de6-a734-bf721b899055_flower9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\b007319a-991a-4d3c-84e7-ccfe4245c448_taisiia-shestopal-htHuk0NHySU-unsplash.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\b007319a-991a-4d3c-84e7-ccfe4245c448_taisiia-shestopal-htHuk0NHySU-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\b124dd6d-27d4-4fe1-a583-3e0f7e662491_cake7.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\b124dd6d-27d4-4fe1-a583-3e0f7e662491_cake7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\c4f7643c-c7aa-4af3-9b45-c5886d97fc8d_flower10.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\c4f7643c-c7aa-4af3-9b45-c5886d97fc8d_flower10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\c6c4a395-6bb8-4746-9043-d90c200d600e_flower8.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\c6c4a395-6bb8-4746-9043-d90c200d600e_flower8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\cake1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\cake1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\cake2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\cake2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\cake3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\cake3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\cake4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\cake4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\cake5.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\cake5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\cake6.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\cake6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\cake7.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\cake7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\cake8.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\cake8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\cake9.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\cake9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\d088f6bd-56f3-4761-b73b-3bf78c380732_flower6.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\d088f6bd-56f3-4761-b73b-3bf78c380732_flower6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\d702acb2-58d4-4452-a2b7-4d9d27c5bbbf_tatiana-parubenko-w8rxvPorNt8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\d702acb2-58d4-4452-a2b7-4d9d27c5bbbf_tatiana-parubenko-w8rxvPorNt8-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\dc145f12-b306-4ba3-9e8a-8061444f631b_flower7.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\dc145f12-b306-4ba3-9e8a-8061444f631b_flower7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\de983791-cbfd-4999-a661-dba9c4c9d143_cake9.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\de983791-cbfd-4999-a661-dba9c4c9d143_cake9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\df7341ee-481e-4318-832b-b47c938bd722_flower3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\df7341ee-481e-4318-832b-b47c938bd722_flower3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\e88cd029-a760-4c9e-ac3a-60be97314d61_cake9.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\e88cd029-a760-4c9e-ac3a-60be97314d61_cake9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\ecf61715-75c7-439a-bee6-a8873ee31592_cake5.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\ecf61715-75c7-439a-bee6-a8873ee31592_cake5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\f8d86f87-fa0f-4d5b-b27c-8e59286377a6_cake3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\f8d86f87-fa0f-4d5b-b27c-8e59286377a6_cake3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\f921718a-1bc0-431b-ae6e-6d6d69168891_slashio-photography-T5KPTbbK-_E-unsplash.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\f921718a-1bc0-431b-ae6e-6d6d69168891_slashio-photography-T5KPTbbK-_E-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\f9e7e018-c835-4715-92d7-6aacb8939d55_flower2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\f9e7e018-c835-4715-92d7-6aacb8939d55_flower2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\fa2b91cb-b52b-4972-aba0-8fea5bd56eff_cake8.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\fa2b91cb-b52b-4972-aba0-8fea5bd56eff_cake8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\flower1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\flower1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\flower2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\flower2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\flower3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\flower3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\flower4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\flower4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\flower5.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\flower5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\flower6.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\flower6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\flower7.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\flower7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\flower8.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\flower8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\flower9.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\flower9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\noimage.png",
+      "PackagePath": "staticwebassets\\media\\products\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\shirt1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\shirt1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\shirt2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\shirt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\shirt3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\shirt3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\shirt4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\shirt4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\shirt5.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\shirt5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\shirt6.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\shirt6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\shirt7.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\shirt7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\shirt8.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\shirt8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\media\\products\\shirt9.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\shirt9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\video\\gift-packs.jpg",
+      "PackagePath": "staticwebassets\\video\\gift-packs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\video\\gift-packs.mp4",
+      "PackagePath": "staticwebassets\\video\\gift-packs.mp4"
+    },
+    {
+      "Id": "C:\\Users\\rizwa\\Documents\\TRIOS\\ASP.net\\GiftShop_App_Rizwana_ASPNET\\GiftShopApp\\wwwroot\\video\\gift-packs.png",
+      "PackagePath": "staticwebassets\\video\\gift-packs.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ShoppingCart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ShoppingCart.props",
+      "PackagePath": "build\\ShoppingCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingCart.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ShoppingCart.props",
+      "PackagePath": "buildTransitive\\ShoppingCart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

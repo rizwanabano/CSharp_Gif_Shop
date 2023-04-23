@@ -1,0 +1,126 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+        <PropertyGroup>
+                <TargetFramework>net6.0</TargetFramework>
+                <Nullable>disable</Nullable>
+                <ImplicitUsings>enable</ImplicitUsings>
+        </PropertyGroup>
+
+        <ItemGroup>
+          <Content Remove="Views\Account\Create.cshtml" />
+        </ItemGroup>
+
+        <ItemGroup>
+                <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.6" />
+                <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.6">
+                        <PrivateAssets>all</PrivateAssets>
+                        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+                </PackageReference>
+                <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.6" />
+                <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.6">
+                  <PrivateAssets>all</PrivateAssets>
+                  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+                </PackageReference>
+                <PackageReference Include="Microsoft.TypeScript.MSBuild" Version="4.9.5">
+                  <PrivateAssets>all</PrivateAssets>
+                  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+                </PackageReference>
+                <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.12" />
+                <PackageReference Include="Stripe.Net" Version="41.6.0" />
+                <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.0" />
+        </ItemGroup>
+
+        <ItemGroup>
+          <Folder Include="Models\" />
+          <Folder Include="wwwroot\lib\bootstrap\" />
+          <Folder Include="wwwroot\lib\bootstrap\dist\js\" />
+          <Folder Include="wwwroot\lib\jquery-validation-unobtrusive\" />
+          <Folder Include="wwwroot\lib\jquery-validation\" />
+          <Folder Include="wwwroot\lib\jquery-validation\dist\" />
+        </ItemGroup>
+
+        <ItemGroup>
+          <None Include="wwwroot\adminStyles\fonts\digital-7-webfont.svg" />
+          <None Include="wwwroot\adminStyles\fonts\digital-7_italic-webfont.svg" />
+          <None Include="wwwroot\adminStyles\fonts\digital-7_mono-webfont.svg" />
+          <None Include="wwwroot\adminStyles\fonts\fontawesome-webfont.svg" />
+          <None Include="wwwroot\adminStyles\fonts\glyphicons-halflings-regular.svg" />
+          <None Include="wwwroot\adminStyles\fonts\glyphicons-halflings-regular.woff2" />
+          <None Include="wwwroot\adminStyles\fonts\Linearicons-Free.svg" />
+          <None Include="wwwroot\adminStyles\fonts\Linearicons-Free.woff2" />
+          <None Include="wwwroot\adminStyles\fonts\weathericons-regular-webfont.svg" />
+          <None Include="wwwroot\adminStyles\js\bootstrap.min.js" />
+          <None Include="wwwroot\adminStyles\js\Chart.js" />
+          <None Include="wwwroot\adminStyles\js\classie.js" />
+          <None Include="wwwroot\adminStyles\js\jquery-1.10.2.min.js" />
+          <None Include="wwwroot\adminStyles\js\jquery.flexisel.js" />
+          <None Include="wwwroot\adminStyles\js\jquery.flot.min.js" />
+          <None Include="wwwroot\adminStyles\js\jquery.nicescroll.js" />
+          <None Include="wwwroot\adminStyles\js\scripts.js" />
+          <None Include="wwwroot\adminStyles\js\skycons.js" />
+          <None Include="wwwroot\adminStyles\js\uisearch.js" />
+          <None Include="wwwroot\adminStyles\js\wow.min.js" />
+          <None Include="wwwroot\css\bootstrap.css" />
+          <None Include="wwwroot\css\font-awesome.css" />
+          <None Include="wwwroot\css\owl.carousel.css" />
+          <None Include="wwwroot\css\site.css" />
+          <None Include="wwwroot\css\style.css" />
+          <None Include="wwwroot\css\swipebox.css" />
+          <None Include="wwwroot\fonts\fontawesome-webfont.eot" />
+          <None Include="wwwroot\fonts\fontawesome-webfont.svg" />
+          <None Include="wwwroot\fonts\fontawesome-webfont.ttf" />
+          <None Include="wwwroot\fonts\fontawesome-webfont.woff" />
+          <None Include="wwwroot\fonts\fontawesome-webfont.woff2" />
+          <None Include="wwwroot\fonts\FontAwesome.otf" />
+          <None Include="wwwroot\fonts\glyphicons-halflings-regular.eot" />
+          <None Include="wwwroot\fonts\glyphicons-halflings-regular.svg" />
+          <None Include="wwwroot\fonts\glyphicons-halflings-regular.ttf" />
+          <None Include="wwwroot\fonts\glyphicons-halflings-regular.woff" />
+          <None Include="wwwroot\fonts\glyphicons-halflings-regular.woff2" />
+          <None Include="wwwroot\images\ab.jpg" />
+          <None Include="wwwroot\images\contact.jpg" />
+          <None Include="wwwroot\images\d1.jpg" />
+          <None Include="wwwroot\images\d10.jpg" />
+          <None Include="wwwroot\images\d2.jpg" />
+          <None Include="wwwroot\images\d3.jpg" />
+          <None Include="wwwroot\images\d4.jpg" />
+          <None Include="wwwroot\images\d5.jpg" />
+          <None Include="wwwroot\images\d6.jpg" />
+          <None Include="wwwroot\images\d7.jpg" />
+          <None Include="wwwroot\images\d8.jpg" />
+          <None Include="wwwroot\images\d9.jpg" />
+          <None Include="wwwroot\images\f1.jpg" />
+          <None Include="wwwroot\images\f2.jpg" />
+          <None Include="wwwroot\images\f3.jpg" />
+          <None Include="wwwroot\images\g1.jpg" />
+          <None Include="wwwroot\images\g2.jpg" />
+          <None Include="wwwroot\images\g3.jpg" />
+          <None Include="wwwroot\images\g4.jpg" />
+          <None Include="wwwroot\images\g5.jpg" />
+          <None Include="wwwroot\images\g6.jpg" />
+          <None Include="wwwroot\images\g7.jpg" />
+          <None Include="wwwroot\images\g8.jpg" />
+          <None Include="wwwroot\images\g9.jpg" />
+          <None Include="wwwroot\images\icons.svg" />
+          <None Include="wwwroot\images\sale.jpg" />
+          <None Include="wwwroot\images\team1.jpg" />
+          <None Include="wwwroot\images\team2.jpg" />
+          <None Include="wwwroot\images\team3.jpg" />
+          <None Include="wwwroot\images\team4.jpg" />
+          <None Include="wwwroot\js\bootstrap-3.1.1.min.js" />
+          <None Include="wwwroot\lib\jquery\dist\jquery-2.1.4.min.js" />
+          <None Include="wwwroot\js\jquery.flexisel.js" />
+          <None Include="wwwroot\js\jquery.nicescroll.js" />
+          <None Include="wwwroot\js\jquery.swipebox.min.js" />
+          <None Include="wwwroot\js\jquery.vide.min.js" />
+          <None Include="wwwroot\js\minicart.min.js" />
+          <None Include="wwwroot\js\owl.carousel.js" />
+          <None Include="wwwroot\js\responsiveslides.min.js" />
+          <None Include="wwwroot\js\scripts.js" />
+          <None Include="wwwroot\js\site.js" />
+          <None Include="wwwroot\video\gift-packs.jpg" />
+          <None Include="wwwroot\video\gift-packs.mp4" />
+          <None Include="wwwroot\video\gift-packs.png" />
+        </ItemGroup>
+
+</Project>

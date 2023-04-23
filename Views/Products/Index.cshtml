@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Product>
+
+@{
+        ViewData["Title"] = "Products";
+}
+
+<h1>Products</h1>
+
+@*<form method="get", asp-action="SearchBar">
+    <p>
+        <input type="search" placeholder="enter product name" value="@ViewData["GetProductDetails"]" name="ProductName"/>
+        <input type="search" value="search" class="btn btn-primary"/>
+        <a asp-action="SearchBar">Get all</a>
+
+    </p>
+</form>*@
+
+
+<div class="container body-content">
+<div class="team-grids">
+    <div class="details-top-w3ls">
+        @foreach (var item in Model)
+        {
+            /*    <div class="col-4">
+            
+            <img style="float: left;
+            width:  300px;
+            height: 300px;
+            object-fit: cover;" src="/media/products/@item.Image" class="img-fluid" alt="" />
+                        <h4>@item.Name</h4>
+                        <div>
+                                @Html.Raw(item.Description)
+                        </div>
+                        <p>
+                                @item.Price.ToString("C2")
+                        </p>
+                        <p>
+                                <a class="btn btn-primary" asp-controller="Cart" asp-action="Add" asp-route-id="@item.Id">Add to cart</a>
+                        </p>
+                </div> */
+        <div class="col-md-3 team-grid">
+            <!-- normal -->
+            <div class="ih-item circle effect10 bottom_to_top text-center">
+                        <div class="img" width="50" height="30"><img src="/media/products/@item.Image" alt="img"><span>@item.Name"</span></div>
+                <div class="info">
+                    <h3>@item.Price.ToString("C2")</h3>
+                    <ul>
+                        <li>@Html.Raw(item.Description)</li>
+                                <a class="btn btn-primary" asp-controller="Cart" asp-action="Add" asp-route-id="@item.Id">Add to cart</a>
+                               
+
+                    </ul>
+                </div>
+            </div>
+            <!-- end normal -->
+        </div>
+        }
+</div>
+</div>
+
+        @if (ViewBag.TotalPages > 1)
+        {
+        <div class="text-center">
+                <div class="d-flex w-100 justify-content-center">
+                        <pagination page-count="@ViewBag.TotalPages"
+                            page-target="/products/@ViewBag.CategorySlug"
+                            page-number="@ViewBag.PageNumber"
+                    page-range="@ViewBag.PageRange">
+                        </pagination>
+                </div>
+                </div>
+        }
+
+    <script>
+        // Intercept form submission and redirect to link URL
+        document.getElementById('cart-form').addEventListener('submit', function (e) {
+            e.preventDefault();
+            window.location.href = document.getElementById('cart-link').href;
+        });
+    </script>
+
+</div>
